@@ -1,0 +1,31 @@
+{
+  "width": 722,
+  "height": 313,
+  "cx": [
+    [ "COMMENTAIRE", 74 ],
+    [ "COMMENTE", 211 ],
+    [ "PODCAST", 362 ],
+    [ "CATEGORISE", 512 ],
+    [ "CATEGORIE", 648 ],
+    [ "ECRIT", 211 ],
+    [ "USERS", 362 ]
+  ],
+  "cy": [
+    [ "COMMENTAIRE", 85 ],
+    [ "COMMENTE", 85 ],
+    [ "PODCAST", 85 ],
+    [ "CATEGORISE", 85 ],
+    [ "CATEGORIE", 85 ],
+    [ "ECRIT", 245 ],
+    [ "USERS", 245 ]
+  ],
+  "shift": [
+    [ "COMMENTE,COMMENTAIRE,0", 0 ],
+    [ "COMMENTE,PODCAST,0", 0 ],
+    [ "CATEGORISE,CATEGORIE,0", 0 ],
+    [ "CATEGORISE,PODCAST,0", 0 ],
+    [ "ECRIT,COMMENTAIRE,0", 0 ],
+    [ "ECRIT,USERS,0", 0 ]
+  ],
+  "ratio": []
+}

@@ -1,0 +1,8 @@
+commentaire: Identifiant_UNIQUE,Corps,Date_Creation,Date_Mise_a_Jour
+commente,0N commentaire, 11 podcast
+podcast: Identifiant_UNIQUE,Nom_100,Description,Extrait_Description_300, Lien_Fichier_Audio_150,Date_Creation,Date_Mise_a_Jour
+categorise,01 categorie, 11 podcast
+categorie: Identifiant_UNIQUE,Nom_100,Date_Creation,Date_Mise_a_Jour
+
+ecrit, 0N commentaire, 11 users
+users : Identifiant_UNIQUE, Fullname_100, picture_150,Date_Creation,Date_Mise_a_Jour
